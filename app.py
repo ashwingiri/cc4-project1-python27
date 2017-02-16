@@ -11,6 +11,7 @@ def hello_world():
     <h1>Hello OpenShift</h1>
 
     <p>From Sam at %(now)s.</p>
+    <p>Updated by ashwin at %(now)s.</p>
 
     <p>Deployed on Openshift at <a href="%(url)s">%(url)s</a>.</p>
     
